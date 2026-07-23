@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "dk_Banana-and-Tip-Connectors-Jacks-Plugs")(type "Legacy")(uri "C:/Users/zevaz/OneDrive/Escritorio/Metamers/PCB Files/digikey-kicad-library-master/digikey-symbols/dk_Banana-and-Tip-Connectors-Jacks-Plugs.lib")(options "")(descr ""))
+  (lib (name "dk_D-Sub-Connectors")(type "Legacy")(uri "C:/Users/zevaz/OneDrive/Escritorio/Metamers/PCB Files/digikey-kicad-library-master/digikey-symbols/dk_D-Sub-Connectors.lib")(options "")(descr ""))
+  (lib (name "dk_Modular-Connectors-Jacks")(type "Legacy")(uri "C:/Users/zevaz/OneDrive/Escritorio/Metamers/PCB Files/digikey-kicad-library-master/digikey-symbols/dk_Modular-Connectors-Jacks.lib")(options "")(descr ""))
+)
